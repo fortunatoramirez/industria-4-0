@@ -1,4 +1,4 @@
-# Práctica 3: Envío de eventos en tiempo real desde una página web hacia un servidor
+# Práctica: Envío de eventos en tiempo real desde una página web hacia un servidor
 
 ## Objetivo
 
